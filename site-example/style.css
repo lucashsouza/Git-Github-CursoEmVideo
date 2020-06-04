@@ -29,3 +29,7 @@ img.lado {
     bottom: 0;
     text-align: center;
 }
+
+img.lado {
+    float: right;
+}
