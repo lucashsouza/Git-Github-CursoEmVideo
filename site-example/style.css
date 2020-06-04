@@ -15,6 +15,10 @@ main {
     box-shadow: 3px 3px 5px 473;
 }
 
+img.lado {
+    float: right;
+}
+
 .rodape {
     position: fixed;
     width: 100%;
